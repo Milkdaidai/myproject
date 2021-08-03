@@ -1,7 +1,14 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-08-03 23:01:55
+ * @LastEditTime: 2021-08-03 23:08:25
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /myproject/src/App.vue
+-->
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+    
   </div>
 </template>
 
@@ -12,12 +19,4 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 </style>
